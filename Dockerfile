@@ -1,7 +1,8 @@
-FROM node:20-buster-slim
+FROM node:20.2-slim
 
 COPY . /app
 WORKDIR /app
-# RUN npm install -g yarn
-# RUN yarn install
-# RUN yarn dev
+ENV NODE_OPTIONS=--openssl-legacy-provider
+RUN yarn install
+RUN yarn upgrade
+CMD ["yarn", "dev"]

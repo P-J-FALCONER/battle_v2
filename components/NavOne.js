@@ -51,38 +51,6 @@ class NavOne extends Component {
         return (
             <div>
                 <header className="header-area">
-                    <div className="header-top-action">
-                        <div className="container">
-                            <div className="row">
-                                <div className="col-lg-5">
-                                    <div className="top-action-content">
-                                        <div className="info-box info-box-1 d-flex align-items-center">
-                                            <ul className="d-flex align-items-center">
-                                                <li><a href="#"><i
-                                                    className="fa fa-envelope"></i>needhelp@oxpitan.com</a></li>
-                                                <li><a href="#"><i className="fa fa-phone-square"></i>666 888 0000</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-7">
-                                    <div className="top-action-content info-action-content">
-                                        <div className="info-box info-box-2 d-flex align-items-center justify-content-end">
-                                            <ul className="top-action-list d-flex align-items-center">
-                                                <li className="action__text"><a href="#">login</a></li>
-                                                <li className="action__text"><a href="#">register</a></li>
-                                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div className={`header-top header-menu-action ${this.state.sticky ? 'header-fixed' : ''}`}>
                         <div className="container">
                             <div className="row ostion-top-wrap">
