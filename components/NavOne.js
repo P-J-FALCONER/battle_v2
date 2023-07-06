@@ -172,9 +172,6 @@ class NavOne extends Component {
                             </ul>
                             <ul className="side-social">
                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i className="fa fa-youtube-play"></i></a></li>
-                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                             </ul>
                             <div className="side-btn">
                                 <Link href="/donate"><a className="theme-btn">donate now</a></Link>

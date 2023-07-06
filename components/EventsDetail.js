@@ -76,9 +76,6 @@ const EventsDetail = () => {
                                     <li><span>Location:</span>8 Street, San Marcos London D29, UK</li>
                                 </ul>
                             </div>
-                            <div className="event-detail-item event-detail-item2">
-                                <Map />
-                            </div>
                         </div>
                     </div>
                 </div>
