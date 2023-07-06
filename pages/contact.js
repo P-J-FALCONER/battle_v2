@@ -8,7 +8,7 @@ import Contact from "../components/Contact";
 
 const ContactPage = () => {
     return (
-        <Layout pageTitle="Oxpitan | Contact">
+        <Layout pageTitle="BSSD - Contact Us">
             <NavOne />
             <PageHeader title="Contact" />
             <Contact />

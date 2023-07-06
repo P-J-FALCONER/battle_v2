@@ -66,14 +66,6 @@ const NewsSingle = () => {
                                         <a href="#">love</a>
                                     </span>
                                         </div>
-                                        <div className="news-tag-item-right">
-                                            <ul className="news-share">
-                                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                     <div className="single-comment">
                                         <div className="post__boxed">

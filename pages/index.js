@@ -7,27 +7,23 @@ import EntryArea from "../components/EntryArea";
 import HiwArea from "../components/HiwArea";
 import ServiceArea from "../components/ServiceArea";
 import MixerArea from "../components/MixerArea";
-import CausesArea from "../components/CausesArea";
 import ClientsLogo from "../components/ClientsLogo";
 import HelpingArea from "../components/HelpingArea";
-import TeamArea from "../components/TeamArea";
 import CallToAction from "../components/CallToAction";
 import BlogHome from "../components/BlogHome";
 import CallToActionTwo from "../components/CallToActionTwo";
 
 const HomePage = () => {
     return (
-        <Layout pageTitle="Oxpitan - React Next Nonprofit Charity and Fundraising Template">
+        <Layout pageTitle="Battle for Spartan Swim & Dive">
           <NavOne />
           <SliderOne />
           <EntryArea />
           <HiwArea />
           <ServiceArea />
           <MixerArea />
-          <CausesArea />
           <ClientsLogo />
           <HelpingArea />
-          <TeamArea />
           <CallToAction />
           <BlogHome />
           <CallToActionTwo />

@@ -74,7 +74,6 @@ class Footer extends Component {
                                 <div className="col footer-item footer-item1">
                                     <h3 className="widget__title">about</h3>
                                     <ul className="foot__links">
-                                        <li><a href="#">causes</a></li>
                                         <li><a href="#">about</a></li>
                                         <li><a href="#">New Campaign</a></li>
                                         <li><a href="#">Site Map</a></li>
@@ -116,14 +115,6 @@ class Footer extends Component {
                                         <li><a href="mailto:needhelp@oxpitan.com">needhelp@oxpitan.com</a></li>
                                         <li><a href="tel:6668880000">666 888 0000</a></li>
                                     </ul>
-                                    <div className="footer__social">
-                                        <ul>
-                                            <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
                         </div>

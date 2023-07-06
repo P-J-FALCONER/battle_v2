@@ -65,7 +65,7 @@ class NavOne extends Component {
                                         </div>
                                         <div className="header-btn ml-auto">
                                             <Link href="/donate">
-                                                <a className="theme-btn">donate now</a>
+                                                <a className="theme-btn">Pledge Support</a>
                                             </Link>
                                         </div>
                                     </div>
@@ -77,39 +77,18 @@ class NavOne extends Component {
                                                 <nav className="main-navigation">
                                                     <ul>
                                                         <li className="active"><Link href="/"><a>Home</a></Link>
-                                                            <ul className="dropdown-menu-item">
-                                                                <li><Link href="/"><a>Home 1</a></Link></li>
-                                                            </ul>
                                                         </li>
-                                                        <li><a href="#">causes</a>
-                                                            <ul className="dropdown-menu-item">
-                                                                <li><Link href="/causes"><a>causes</a></Link></li>
-                                                                <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                                                <li><Link href="/donate"><a>donate now</a></Link></li>
-                                                            </ul>
+                                                        <li><a href="/donate">Pledge Support</a>
                                                         </li>
-                                                        <li><a href="#">events</a>
-                                                            <ul className="dropdown-menu-item">
-                                                                <li><Link href="/events"><a>events</a></Link></li>
-                                                                <li><Link href="/events-detail"><a>events detail</a></Link></li>
-                                                            </ul>
+                                                        <li><a href="/about">Get Involved</a>
                                                         </li>
-                                                        <li><a href="#">news</a>
-                                                            <ul className="dropdown-menu-item">
-                                                                <li><Link href="/news"><a>news</a></Link></li>
-                                                                <li><Link href="/single-news"><a>news detail</a></Link></li>
-                                                            </ul>
+                                                        <li><a href="/news">Media & Press</a>
                                                         </li>
-                                                        <li><a href="#">pages</a>
-                                                            <ul className="dropdown-menu-item">
-                                                                <li><Link href="/about"><a>about</a></Link></li>
-                                                                <li><Link href="/gallery"><a>gallery</a></Link></li>
-                                                                <li><Link href="/volunteer"><a>become a volunteer</a></Link></li>
-                                                                <li><Link href="/team"><a>our team</a></Link></li>
-                                                                <li><Link href="/sponsor"><a>sponsors</a></Link></li>
-                                                            </ul>
+                                                        <li><a href="/sponsor">Program Accolates</a>
                                                         </li>
-                                                        <li><Link href="/contact"><a>contact</a></Link></li>
+                                                        <li><a href="/sponsor">Testimonials</a>
+                                                        </li>
+                                                        <li><Link href="/contact"><a>Contact Us</a></Link></li>
                                                     </ul>
                                                 </nav>
                                             </div>
@@ -128,51 +107,25 @@ class NavOne extends Component {
                         </div>
                         <div className="side-menu-wrap">
                             <ul className="side-menu-ul">
-                                <li className="sidenav__item"><a href="/">home</a>
-                                    <span className="menu-plus-icon"></span>
-                                    <ul className="side-sub-menu">
-                                        <li><Link href="/"><a>Home 1</a></Link></li>
-                                    </ul>
+                                <li className="sidenav__item"><a href="/">Home</a>
                                 </li>
-                                <li className="sidenav__item"><a href="#">causes</a>
-                                    <span className="menu-plus-icon"></span>
-                                    <ul className="side-sub-menu">
-                                        <li><Link href="/causes"><a>causes</a></Link></li>
-                                        <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                        <li><Link href="/donate"><a>donate now</a></Link></li>
-                                    </ul>
+                                <li className="sidenav__item"><a href="/donate">Pledge Support</a>
                                 </li>
-                                <li className="sidenav__item"><a href="#">event</a>
-                                    <span className="menu-plus-icon"></span>
-                                    <ul className="side-sub-menu">
-                                        <li><Link href="/events"><a>events</a></Link></li>
-                                        <li><Link href="/events-detail"><a>events detail</a></Link></li>
-                                    </ul>
+                                <li className="sidenav__item"><a href="/about">Get Involved</a>
                                 </li>
-                                <li className="sidenav__item"><a href="#">news</a>
-                                    <span className="menu-plus-icon"></span>
-                                    <ul className="side-sub-menu">
-                                        <li><Link href="/news"><a>news</a></Link></li>
-                                        <li><Link href="/single-news"><a>news detail</a></Link></li>
-                                    </ul>
+                                <li className="sidenav__item"><a href="/news">Media & Press</a>
                                 </li>
-                                <li className="sidenav__item"><a href="#">pages</a>
-                                    <span className="menu-plus-icon"></span>
-                                    <ul className="side-sub-menu">
-                                        <li><Link href="/about"><a>about</a></Link></li>
-                                        <li><Link href="/gallery"><a>gallery</a></Link></li>
-                                        <li><Link href="/volunteer"><a>become a volunteer</a></Link></li>
-                                        <li><Link href="/team"><a>our team</a></Link></li>
-                                        <li><Link href="/sponsor"><a>sponsors</a></Link></li>
-                                    </ul>
+                                <li className="sidenav__item"><a href="/sponsor">Program Accolates</a>
                                 </li>
-                                <li className="sidenav__item"><Link href="/contact"><a>contact</a></Link></li>
+                                <li className="sidenav__item"><a href="/sponsor">Testimonials</a>
+                                </li>
+                                <li className="sidenav__item"><Link href="/contact"><a>Contact Us</a></Link></li>
                             </ul>
                             <ul className="side-social">
                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                             </ul>
                             <div className="side-btn">
-                                <Link href="/donate"><a className="theme-btn">donate now</a></Link>
+                                <Link href="/donate"><a className="theme-btn">Pledge Support</a></Link>
                             </div>
                         </div>
                     </div>

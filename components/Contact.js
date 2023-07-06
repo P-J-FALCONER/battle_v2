@@ -17,12 +17,6 @@ const Contact = () => {
                                 Lorem ipsum is simply free text dolor sit amet,
                                 consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
                             </p>
-                            <ul className="section__list">
-                                <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                            </ul>
                         </div>
                     </div>
                     <div className="col-lg-6">

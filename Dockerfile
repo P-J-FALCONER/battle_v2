@@ -4,5 +4,5 @@ COPY . /app
 WORKDIR /app
 ENV NODE_OPTIONS=--openssl-legacy-provider
 RUN yarn install
-RUN yarn upgrade
+# RUN yarn upgrade
 CMD ["yarn", "dev"]

@@ -64,20 +64,6 @@ class NavTwo extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-lg-7">
-                                <div className="top-action-content info-action-content">
-                                    <div className="info-box info-box-2 d-flex align-items-center justify-content-end">
-                                        <ul className="top-action-list d-flex align-items-center">
-                                            <li className="action__text"><a href="#">login</a></li>
-                                            <li className="action__text"><a href="#">register</a></li>
-                                            <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-pinterest"></i></a></li>
-                                            <li><a href="#"><i className="fa fa-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -102,15 +88,10 @@ class NavTwo extends Component {
                                             <nav className="main-navigation">
                                                 <ul>
                                                     <li className="active"><Link href="/"><a>Home</a></Link>
-                                                        <ul className="dropdown-menu-item">
-                                                            <li><Link href="/"><a>Home 1</a></Link></li>
-                                                        </ul>
                                                     </li>
                                                     <li><a href="#">causes</a>
                                                         <ul className="dropdown-menu-item">
-                                                            <li><Link href="/causes"><a>causes</a></Link></li>
-                                                            <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                                            <li><Link href="/donate"><a>donate now</a></Link></li>
+                                                            <li><Link href="/donate"><a>Pledge Support</a></Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">events</a>
@@ -155,16 +136,11 @@ class NavTwo extends Component {
                         <ul className="side-menu-ul">
                             <li className="sidenav__item"><a href="/">home</a>
                                 <span className="menu-plus-icon"></span>
-                                <ul className="side-sub-menu">
-                                    <li><Link href="/"><a>Home 1</a></Link></li>
-                                </ul>
                             </li>
-                            <li className="sidenav__item"><a href="#">causes</a>
+                            <li className="sidenav__item"><a href="/donate">Pledge Support</a>
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
-                                    <li><Link href="/causes"><a>causes</a></Link></li>
-                                    <li><Link href="/causes-detail"><a>causes detail</a></Link></li>
-                                    <li><Link href="/donate"><a>donate now</a></Link></li>
+                                    <li><Link href="/donate"><a>Pledge Support</a></Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">event</a>
@@ -197,7 +173,7 @@ class NavTwo extends Component {
                             <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                         </ul>
                         <div className="side-btn">
-                            <Link href="/donate"><a className="theme-btn">donate now</a></Link>
+                            <Link href="/donate"><a className="theme-btn">Pledge Support</a></Link>
                         </div>
                     </div>
                 </div>

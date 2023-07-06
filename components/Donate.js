@@ -123,7 +123,7 @@ const Donate = () => {
                                             </div>
                                         </div>
                                         <div className="col-lg-12">
-                                            <button className="theme-btn submit__btn">donate now</button>
+                                            <button className="theme-btn submit__btn">Pledge Support</button>
                                         </div>
                                     </div>
                                 </form>
