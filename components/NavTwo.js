@@ -104,7 +104,6 @@ class NavTwo extends Component {
                                                     <li className="active"><Link href="/"><a>Home</a></Link>
                                                         <ul className="dropdown-menu-item">
                                                             <li><Link href="/"><a>Home 1</a></Link></li>
-                                                            <li><Link href="/index2"><a>Home 2</a></Link></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="#">causes</a>
@@ -158,7 +157,6 @@ class NavTwo extends Component {
                                 <span className="menu-plus-icon"></span>
                                 <ul className="side-sub-menu">
                                     <li><Link href="/"><a>Home 1</a></Link></li>
-                                    <li><Link href="/index2"><a>Home 2</a></Link></li>
                                 </ul>
                             </li>
                             <li className="sidenav__item"><a href="#">causes</a>
