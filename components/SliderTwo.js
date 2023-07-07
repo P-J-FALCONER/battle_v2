@@ -1,22 +1,6 @@
 import React, {useState} from 'react';
-import Swiper from 'react-id-swiper';
-import 'swiper/css/swiper.css';
 
 const SliderTwo = () => {
-    const [swiper, setSwiper] = useState(null);
-
-    const goNext = () => {
-        if (swiper !== null) {
-          swiper.slideNext();
-        }
-    };
-
-    const goPrev = () => {
-        if (swiper !== null) {
-          swiper.slidePrev();
-        }
-    };
-
     return (
         <section className="slider-area slider-area2 text-center">
             <div className="homepage-slide1">
