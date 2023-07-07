@@ -11,7 +11,6 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -30,7 +29,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -49,7 +48,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -68,7 +67,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -87,7 +86,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -106,7 +105,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -125,7 +124,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -144,7 +143,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -163,7 +162,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -182,7 +181,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -201,7 +200,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -220,7 +219,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -239,7 +238,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -258,7 +257,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -277,7 +276,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -296,7 +295,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -315,7 +314,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -334,7 +333,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -353,7 +352,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -372,7 +371,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">
@@ -391,7 +390,7 @@ const Testimonial = () => {
                             <div className="row">
                                 <div className="col-lg-3">
                                     <div className="logo-item logo-item1">
-                                        <img src="/images/client-logo2.png" alt="" />
+
                                     </div>
                                 </div>
                                 <div className="col-lg-9">

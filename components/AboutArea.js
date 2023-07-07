@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const AboutArea = () => {
     return (
@@ -19,31 +20,82 @@ const AboutArea = () => {
                         <div className="about-heading">
                             <div className="section-heading">
                                 <h2 className="section__title">Got Some Spare Time?</h2>
-                                <p className="section__desc">
-                                Reach out to AD Haller and voice your support!
+                                <h2>Reach out to AD Haller and voice your support!</h2>
 
-                                    Write personalized letters about why this fight matters to you. AD Haller is the primary target
-                                    Top Priority Contacts, Email as Many as You Can:
+                                <h4>Write personalized letters about why this fight matters to you. AD Haller is the primary target
+                                Top Priority Contacts, Email as Many as You Can:</h4>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:ad@ath.msu.edu" target='_blank' className="theme-btn">
+                                    Athletic Director, Allan Haller: ad@ath.msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:president@msu.edu" target='_blank' className="theme-btn">
+                                    Interim President, Dr. Teresa Woodruff: president@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:DrRema@msu.edu" target='_blank' className="theme-btn">
+                                    Board of Trustees Chair, Rema Vassar: DrRema@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:dkelly@msu.edu" target='_blank' className="theme-btn">
+                                    Board of Trustees Vice Chair, Dan Kelly: dkelly@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:byrum@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Dianne Byrum: byrum@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:knakeree@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Renee Knake Jefferson: knakeree@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:scottbri@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Brianna T. Scott: scottbri@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:tebaykel@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Kelly Tebay: tebaykel@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:trusteedenno@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Dennis Denno: trusteedenno@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:trusteepierce@msu.edu" target='_blank' className="theme-btn">
+                                    Trustee, Sandy Pierce: trusteepierce@msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="tel:517-353-4647" target='_blank' className="theme-btn">
+                                    Board of Trustees Office: (517) 353-4647
+                                    </Link>
+                                </div>
 
-                                        Athletic Director, Allan Haller: ad@ath.msu.edu
-                                        Interim President, Dr. Teresa Woodruff: president@msu.edu
-                                        Board of Trustees Chair, Rema Vassar: DrRema@msu.edu
-                                        Board of Trustees Vice Chair, Dan Kelly: dkelly@msu.edu
-                                        Trustee, Dianne Byrum: byrum@msu.edu
-                                        Trustee, Renee Knake Jefferson: knakeree@msu.edu
-                                        Trustee, Brianna T. Scott: scottbri@msu.edu
-                                        Trustee, Kelly Tebay: tebaykel@msu.edu
-                                        Trustee, Dennis Denno: trusteedenno@msu.edu
-                                        Trustee, Sandy Pierce: trusteepierce@msu.edu
-                                        Board of Trustees Office: (517) 353-4647, 426 Auditorium Rd., Room 450, East Lansing, MI 48824
-
-                                    Other members of the Athletic Department:
-
-                                        Deputy AD/Sr. Woman’s Admin/Compliance: smith170@ath.msu.edu
-                                        Exec Assoc AD Ops, Paul Schager: schager@ath.msu.edu
-                                        Assoc AD/Student-Athlete Engagement, Elliot Daniels: danie128@ath.msu.edu
-
-                                </p>
+                                        <h4>Other members of the Athletic Department:</h4>
+                                        <div className='pledge-form'>
+                                    <Link href="mailto:smith170@ath.msu.edu" target='_blank' className="theme-btn">
+                                    Deputy AD/Sr. Woman’s Admin/Compliance: smith170@ath.msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:schager@ath.msu.edu" target='_blank' className="theme-btn">
+                                    Exec Assoc AD Ops, Paul Schager: schager@ath.msu.edu
+                                    </Link>
+                                </div>
+                                <div className='pledge-form'>
+                                    <Link href="mailto:danie128@ath.msu.edu" target='_blank' className="theme-btn">
+                                    ssoc AD/Student-Athlete Engagement, Elliot Daniels: danie128@ath.msu.edu
+                                    </Link>
+                                </div>
                             </div>
                         </div>
                     </div>

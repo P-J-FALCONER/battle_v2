@@ -110,6 +110,13 @@ a:hover {
     text-decoration: none;
 }
 
+.pledge-form {
+    margin-top: 10px;
+}
+.mission_statement {
+    color: #fff;
+    padding-bottom: 30px;
+}
 /*=============================
     general-style
  =============================*/
@@ -1932,7 +1939,6 @@ a:hover {
     ABOUT AREA
 =====================================*/
 .about-area {
-    padding-top: 120px;
     padding-bottom: 120px;
 }
 .about-area .about-large-img {

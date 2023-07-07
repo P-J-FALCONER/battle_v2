@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Link from 'next/link';
 
 class FaqPledge extends Component {
 
@@ -16,6 +17,12 @@ class FaqPledge extends Component {
                         <div className="col-lg-6">
                             <div className="section-heading">
                                 <h2 className="section__title">Pledge Questions</h2>
+                                <div className='pledge-form'>
+                                <Link href="https://www.lansingstatejournal.com/story/news/local/campus/2023/06/1/" target='_blank' className="theme-btn">Example Pledge Form</Link>
+                                </div>
+                                <div className='pledge-form'>
+                                <Link href="https://www.lansingstatejournal.com/story/new" target='_blank' className="theme-btn">Pledge Form for Download</Link>
+                                </div>
                             </div>
                         </div>
                         <div className="col-lg-6">
