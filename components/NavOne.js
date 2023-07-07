@@ -58,14 +58,12 @@ class NavOne extends Component {
                                     <div className="logo-action d-flex align-items-center">
                                         <div className="ostion-logo">
                                             <Link href="/">
-                                                <a>
                                                     <img src="/images/logo.png" alt="Oxpitan" title="Oxpitan" />
-                                                </a>
                                             </Link>
                                         </div>
                                         <div className="header-btn ml-auto">
-                                            <Link href="/pledge">
-                                                <a className="theme-btn">Pledge Support</a>
+                                            <Link className="theme-btn" href="/pledge">
+                                               Pledge Support
                                             </Link>
                                         </div>
                                     </div>
@@ -76,7 +74,7 @@ class NavOne extends Component {
                                             <div className="navigation-top">
                                                 <nav className="main-navigation">
                                                     <ul>
-                                                        <li className="active"><Link href="/"><a>Home</a></Link>
+                                                        <li className="active"><Link href="/">Home</Link>
                                                         </li>
 
                                                         <li><a href="/get-involved">Get Involved</a>
@@ -87,7 +85,7 @@ class NavOne extends Component {
                                                         </li>
                                                         <li><a href="/testimonials">Testimonials</a>
                                                         </li>
-                                                        <li><Link href="/contact"><a>Contact Us</a></Link></li>
+                                                        <li><Link href="/contact">Contact Us</Link></li>
                                                     </ul>
                                                 </nav>
                                             </div>
@@ -106,7 +104,7 @@ class NavOne extends Component {
                         </div>
                         <div className="side-menu-wrap">
                         <div className="side-btn">
-                                <Link href="/pledge"><a className="theme-btn">Pledge Support</a></Link>
+                                <Link href="/pledge" className="theme-btn">Pledge Support</Link>
                             </div>
                             <ul className="side-menu-ul">
                                 <li className="sidenav__item"><a href="/">Home</a>
@@ -119,7 +117,7 @@ class NavOne extends Component {
                                 </li>
                                 <li className="sidenav__item"><a href="/testimonials">Testimonials</a>
                                 </li>
-                                <li className="sidenav__item"><Link href="/contact"><a>Contact Us</a></Link></li>
+                                <li className="sidenav__item"><Link href="/contact">Contact Us</Link></li>
                             </ul>
 
                         </div>
