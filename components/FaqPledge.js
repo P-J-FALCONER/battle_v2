@@ -18,10 +18,10 @@ class FaqPledge extends Component {
                             <div className="section-heading">
                                 <h2 className="section__title">Pledge Questions</h2>
                                 <div className='pledge-form'>
-                                <Link href="https://www.lansingstatejournal.com/story/news/local/campus/2023/06/1/" target='_blank' className="theme-btn">Example Pledge Form</Link>
+                                <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf" target='_blank' className="theme-btn">Example Pledge Form</Link>
                                 </div>
                                 <div className='pledge-form'>
-                                <Link href="https://www.lansingstatejournal.com/story/new" target='_blank' className="theme-btn">Pledge Form for Download</Link>
+                                <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf" target='_blank' className="theme-btn">Pledge Form for Download</Link>
                                 </div>
                             </div>
                         </div>
