@@ -7,12 +7,12 @@ const AboutArea = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="about-large-img">
-                            <img src="/images/about-img.jpg" alt="" />
+                            <img src="/images/about-img.png" alt="" />
                         </div>
                     </div>
                     <div className="col-lg-5">
                         <div className="about-semi-img">
-                            <img src="/images/about-img2.jpg" alt="" />
+                            <img src="/images/about-img2.png" alt="" />
                         </div>
                     </div>
                     <div className="col-lg-7">

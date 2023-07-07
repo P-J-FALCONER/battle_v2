@@ -56,11 +56,11 @@ class NavOne extends Component {
                             <div className="row ostion-top-wrap">
                                 <div className="col-lg-5 col-sm-5 site-branding">
                                     <div className="logo-action d-flex align-items-center">
-                                        <div className="ostion-logo">
+                                        {/* <div className="ostion-logo">
                                             <Link href="/">
-                                                    <img src="/images/logo.png" alt="Oxpitan" title="Oxpitan" />
+                                                    <img src="/images/logo.png" alt="Battle for Spartan Swim and Dive Logo" title="Battle for Spartan Swim and Dive" />
                                             </Link>
-                                        </div>
+                                        </div> */}
                                         <div className="header-btn ml-auto">
                                             <Link className="theme-btn" href="/pledge">
                                                Pledge Support
