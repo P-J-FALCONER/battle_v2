@@ -4,7 +4,7 @@ const SliderTwo = () => {
     return (
         <section className="slider-area slider-area2 text-center">
             <div className="homepage-slide1">
-                    <div className="single-slide-item slide-bg4">
+                    <div className="single-slide-item slide-bg1">
                         <div className="slide-item-table">
                             <div className="slide-item-tablecell">
                                 <div className="container">
