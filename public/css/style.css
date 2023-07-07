@@ -1260,7 +1260,7 @@ a:hover {
     position: absolute;
     bottom: 0;
     left: 0;
-    background-color: #e36955;
+    background-color: #18453B;
     padding: 0 30px 0 35px;
     line-height: 49px;
 }
@@ -1273,7 +1273,7 @@ a:hover {
     top: 0;
     left: 1px;
     z-index: -1;
-    background: #e36955;
+    background: #18453B;
     -webkit-transform-origin: bottom left;
     transform-origin: bottom left;
     -webkit-transform: skew(-12deg,0deg);
@@ -3942,7 +3942,7 @@ a:hover {
 .cta-area {
     padding-top: 55px;
     padding-bottom: 60px;
-    background-color: #50bac3;
+    background-color: #18453B;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -3956,7 +3956,7 @@ a:hover {
     top: 0;
     right: 0;
     z-index: -1;
-    background-color: #863bae;
+    background-color: #adaaaa;
     -webkit-transform-origin: bottom left;
     transform-origin: bottom left;
     -webkit-transform: skew(-12deg,0deg);
@@ -3965,13 +3965,22 @@ a:hover {
     -o-transform: skew(-12deg,0deg);
     transform: skew(-12deg,0deg);
 }
-.cta-area .cta-item .cta__title {
+.cta-area .cta-item1 .cta__title {
     font-size: 30px;
     color: #fff;
     font-weight: 800;
     margin-bottom: 30px;
     line-height: 34px;
 }
+
+.cta-area .cta-item2 .cta__title {
+    font-size: 30px;
+    color: #080808;
+    font-weight: 800;
+    margin-bottom: 30px;
+    line-height: 34px;
+}
+
 /*=============================
    CTA AREA 2
 =============================*/

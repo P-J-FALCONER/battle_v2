@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Contact = () => {
     return (
@@ -8,7 +9,7 @@ const Contact = () => {
                     <div className="col-lg-6">
                         <div className="section-heading">
                             <h2 className="section__title">Get in Touch With Us</h2>
-                            <p className="section__meta">Contact Us by Email fightforspartanswimsive@gmail.com</p>
+                            <Link href="mailto:fightforspartanswimdive@gmail.com">Contact Us by Email fightforspartanswimsdive@gmail.com</Link>
                         </div>
                     </div>
                 </div>
