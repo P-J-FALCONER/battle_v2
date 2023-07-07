@@ -20,7 +20,6 @@ const SliderTwo = () => {
     return (
         <section className="slider-area slider-area2 text-center">
             <div className="homepage-slide1">
-                <Swiper getSwiper={setSwiper}>
                     <div className="single-slide-item slide-bg4">
                         <div className="slide-item-table">
                             <div className="slide-item-tablecell">
@@ -28,9 +27,9 @@ const SliderTwo = () => {
                                     <div className="row">
                                         <div className="col-lg-8 mx-auto">
                                             <div className="slider-heading">
-                                                <p className="slider__meta">help the people in need</p>
-                                                <h2 className="slider__title">Your small help make world better</h2>
-                                                <a href="#" className="theme-btn">discover more</a>
+                                                <h2 className="slider__title">Mission Statement</h2>
+                                                <h4>The decision to cut the men’s and women’s swimming and diving programs at Michigan State University after the 2020-2021 season is unjustified. We, as current student-athletes, alumni, Olympic sport supporters, and other friends of the team, disagree with this decision due to its lack of transparency, misleading claims, and failure to consider the unique and powerful experience MSU offers to student-athletes in these sports. Our goals are to establish a dialogue with the decision makers, correct the facts, become part of a creative solution, and reinstate the teams.</h4>
+                                                <a target='_blank' href="https://linktr.ee/battleforspartanswimanddive" className="theme-btn">Useful Links</a>
                                             </div>
                                         </div>
                                     </div>
@@ -38,45 +37,6 @@ const SliderTwo = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="single-slide-item slide-bg3">
-                        <div className="slide-item-table">
-                            <div className="slide-item-tablecell">
-                                <div className="container">
-                                    <div className="row">
-                                        <div className="col-lg-8 mx-auto">
-                                            <div className="slider-heading">
-                                                <p className="slider__meta">welcome to oxpitan</p>
-                                                <h2 className="slider__title">Lend the helping hand get involved</h2>
-                                                <a href="#" className="theme-btn">discover more</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="single-slide-item slide-bg5">
-                        <div className="slide-item-table">
-                            <div className="slide-item-tablecell">
-                                <div className="container">
-                                    <div className="row">
-                                        <div className="col-lg-8 mx-auto">
-                                            <div className="slider-heading">
-                                                <p className="slider__meta">welcome to oxpitan</p>
-                                                <h2 className="slider__title">Lend the helping hand get involved</h2>
-                                                <a href="#" className="theme-btn">discover more</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </Swiper>
-                <div className="owl-dots">
-                    <div onClick={goPrev} className="owl-dot"><span></span></div>
-                    <div onClick={goNext} className="owl-dot"><span></span></div>
-                </div>
             </div>
         </section>
     );

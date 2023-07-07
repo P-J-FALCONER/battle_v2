@@ -2,18 +2,16 @@ import React from 'react';
 import Layout from "../components/Layout";
 import NavOne from "../components/NavOne";
 import PageHeader from "../components/PageHeader";
-import Footer from "../components/Footer";
 import News from "../components/News";
 
-const NewsPage = () => {
+const MediaPressPage = () => {
     return (
         <Layout pageTitle="BBSD - News">
             <NavOne />
-            <PageHeader title="News" />
+            <PageHeader title="News & Press Releases" />
             <News />
-            <Footer />
         </Layout>
     );
 };
 
-export default NewsPage;
+export default MediaPressPage;

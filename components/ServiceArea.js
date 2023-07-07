@@ -100,7 +100,7 @@ const ServiceArea = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="button-shared">
-                            <a href="/donate" className="theme-btn">donate
+                            <a href="/pledge" className="theme-btn">donate
                                 now</a>
                         </div>
                     </div>

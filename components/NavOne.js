@@ -64,7 +64,7 @@ class NavOne extends Component {
                                             </Link>
                                         </div>
                                         <div className="header-btn ml-auto">
-                                            <Link href="/donate">
+                                            <Link href="/pledge">
                                                 <a className="theme-btn">Pledge Support</a>
                                             </Link>
                                         </div>
@@ -78,15 +78,14 @@ class NavOne extends Component {
                                                     <ul>
                                                         <li className="active"><Link href="/"><a>Home</a></Link>
                                                         </li>
-                                                        <li><a href="/donate">Pledge Support</a>
+
+                                                        <li><a href="/get-involved">Get Involved</a>
                                                         </li>
-                                                        <li><a href="/about">Get Involved</a>
+                                                        <li><a href="/media-press">Media & Press</a>
                                                         </li>
-                                                        <li><a href="/news">Media & Press</a>
+                                                        <li><a href="/program-accolades">Program Accolades</a>
                                                         </li>
-                                                        <li><a href="/sponsor">Program Accolates</a>
-                                                        </li>
-                                                        <li><a href="/sponsor">Testimonials</a>
+                                                        <li><a href="/testimonials">Testimonials</a>
                                                         </li>
                                                         <li><Link href="/contact"><a>Contact Us</a></Link></li>
                                                     </ul>
@@ -106,27 +105,23 @@ class NavOne extends Component {
                             <div className="humburger-menu-lines side-menu-close"></div>
                         </div>
                         <div className="side-menu-wrap">
+                        <div className="side-btn">
+                                <Link href="/pledge"><a className="theme-btn">Pledge Support</a></Link>
+                            </div>
                             <ul className="side-menu-ul">
                                 <li className="sidenav__item"><a href="/">Home</a>
                                 </li>
-                                <li className="sidenav__item"><a href="/donate">Pledge Support</a>
+                                <li className="sidenav__item"><a href="/get-involved">Get Involved</a>
                                 </li>
-                                <li className="sidenav__item"><a href="/about">Get Involved</a>
+                                <li className="sidenav__item"><a href="/media-press">Media & Press</a>
                                 </li>
-                                <li className="sidenav__item"><a href="/news">Media & Press</a>
+                                <li className="sidenav__item"><a href="/program-accolades">Program Accolades</a>
                                 </li>
-                                <li className="sidenav__item"><a href="/sponsor">Program Accolates</a>
-                                </li>
-                                <li className="sidenav__item"><a href="/sponsor">Testimonials</a>
+                                <li className="sidenav__item"><a href="/testimonials">Testimonials</a>
                                 </li>
                                 <li className="sidenav__item"><Link href="/contact"><a>Contact Us</a></Link></li>
                             </ul>
-                            <ul className="side-social">
-                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                            </ul>
-                            <div className="side-btn">
-                                <Link href="/donate"><a className="theme-btn">Pledge Support</a></Link>
-                            </div>
+
                         </div>
                     </div>
                 </header>

@@ -6,138 +6,55 @@ const News = () => {
         <section className="blog-area blog-area2">
             <div className="container">
                 <div className="row recent-post-wrap">
+
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date">09 mar, 2019</span>
-                                <img src="/images/blog-img.jpg" alt="service-image" />
-                            </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>A place where start new
-                                    life with peace</a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">mike hardson</a></li>
-                                    <li><a href="#">3 comments</a></li>
-                                </ul>
+                                <h3 className="news__content-title">MSU takes 'massive step' toward reinstating swimming and diving programs</h3>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                The battle to reinstate Michigan State's men's and women's swimming and diving teams is in its 28th month and, for the first time, the finish line might finally be in sight.
                                 </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
+                                <Link href="https://www.detroitnews.com/story/sports/college/michigan-state-university/2023/06/16/michigan-state-takes-massive-step-toward-reinstating-swimming-and-diving-programs/70329934007/"><a target='_blank' className="theme-btn">Read More</a></Link>
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date meta__date-date2">07 mar, 2019</span>
-                                <img src="/images/blog-img5.jpg" alt="service-image"/>
-                            </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>We can make a difference
-                                    in families lives </a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">jessica brown</a></li>
-                                    <li><a href="#">2 comments</a></li>
-                                </ul>
+                                <h3 className="news__content-title">MSU board's approval of student wellness center gives hope to swim, dive supporters</h3>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
-                                </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
+                                The Michigan State University Board of Trustees approved plans Friday for a new $200 million student recreation and wellness center that could aid the potential reinstatement of its swim and dive team once the project is complete.</p>
+                                <Link href="https://www.lansingstatejournal.com/story/news/local/campus/2023/06/16/michigan-state-student-wellness-center-swim-dive-program-reinstatement/70325019007/"><a target='_blank' className="theme-btn">Read More</a></Link>
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date meta__date-date3">04 mar, 2019</span>
-                                <img src="/images/blog-img6.jpg" alt="service-image" />
-                            </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>Build school for poor
-                                    childrens</a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">john smith</a></li>
-                                    <li><a href="#">0 comments</a></li>
-                                </ul>
+                                <h3 className="news__content-title">MSU board renews hope for swim and dive reinstatement with new pool</h3>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                With funding for a new 50-meter pool approved, Michigan State University’s board of trustees sees a “window of opportunity” for reinstating the university’s controversially-cut swim and dive program.
                                 </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
+                                <Link href="https://statenews.com/article/2023/06/msu-board-renews-hope-for-swim-and-dive-reinstatement-with-new-pool"><a target='_blank' className="theme-btn">Read More</a></Link>
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date meta__date-date4">30 feb, 2019</span>
-                                <img src="/images/blog-img7.jpg" alt="service-image" />
-                            </div>
                             <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>Learn how access to clean
-                                    water</a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">kevin hart</a></li>
-                                    <li><a href="#">4 comments</a></li>
-                                </ul>
+                                <h3 className="news__content-title">Michigan State Could Be Close to Reinstating Swimming and Diving Programs</h3>
                                 <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
+                                Michigan State could be close to reinstating its men’s and women’s swimming and diving teams, according to the Battle for Spartan Swim and Dive advocacy group that has fought for their return since the 2020 cuts.
                                 </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
+                                <Link href="https://swimswam.com/michigan-state-could-be-close-to-reinstating-swimming-and-diving-programs/"><a target='_blank' className="theme-btn">Read More</a></Link>
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-6 col-sm-6">
-                        <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date">26 feb, 2019</span>
-                                <img src="/images/blog-img8.jpg" alt="service-image" />
-                            </div>
-                            <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>Do something crazy to
-                                    raise money</a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">christine eve</a></li>
-                                    <li><a href="#">2 comments</a></li>
-                                </ul>
-                                <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
-                                </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-6 col-sm-6">
-                        <div className="recent-item">
-                            <div className="recent__img">
-                                <span className="meta__date-date meta__date-date2">20 feb, 2019</span>
-                                <img src="/images/blog-img9.jpg" alt="service-image" />
-                            </div>
-                            <div className="news__content">
-                                <h3 className="news__content-title"><Link href="/single-news"><a>Together to help the
-                                    world better</a></Link></h3>
-                                <ul className="news__content-list">
-                                    <li className="news__content-active__dot"><a href="#">mike hardson</a></li>
-                                    <li><a href="#">0 comments</a></li>
-                                </ul>
-                                <p className="news__content-text">
-                                    Aliq is notm hendr erit a augue insu image pellen tes que id erat quis
-                                    sollicitud. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing ullam blandit hendrerit faucibus suspendisse.
-                                </p>
-                                <Link href="/single-news"><a className="theme-btn">read more</a></Link>
-                            </div>
-                        </div>
-                    </div>
+
+
                 </div>
             </div>
         </section>

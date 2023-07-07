@@ -2,18 +2,17 @@ import React from 'react';
 import Layout from "../components/Layout";
 import NavOne from "../components/NavOne";
 import PageHeader from "../components/PageHeader";
-import Footer from "../components/Footer";
 import Donate from "../components/Donate";
+import FaqPledge from "../components/FaqPledge"
 
-const DonatePage = () => {
+const PledgePage = () => {
     return (
-        <Layout pageTitle="BSSD - Donate">
+        <Layout pageTitle="BSSD - Pledge Support">
             <NavOne />
-            <PageHeader title="Donate" />
-            <Donate />
-            <Footer />
+            <PageHeader title="Pledge Support" />
+            <FaqPledge />
         </Layout>
     );
 };
 
-export default DonatePage;
+export default PledgePage;

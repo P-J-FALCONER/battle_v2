@@ -2,17 +2,17 @@ import React from 'react';
 import Layout from "../components/Layout";
 import NavOne from "../components/NavOne";
 import PageHeader from "../components/PageHeader";
-import Contact from "../components/Contact";
+import Accolade from "../components/Accolade";
 
 
-const ContactPage = () => {
+const SponsorPage = () => {
     return (
-        <Layout pageTitle="BSSD - Contact Us">
+        <Layout pageTitle="BSSD - Program Accolades">
             <NavOne />
-            <PageHeader title="Contact Us" />
-            <Contact />
+            <PageHeader title="Program Accolades" />
+            <Accolade />
         </Layout>
     );
 };
 
-export default ContactPage;
+export default SponsorPage;
