@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Link from 'next/link';
 
 class FaqArea extends Component {
 
@@ -15,8 +16,7 @@ class FaqArea extends Component {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="section-heading">
-                                <h2 className="section__title">Question?</h2>
-                                <p className="section__meta">Frequently Asked Questions</p>
+                                <h2 className="section__title">Frequently Asked Questions</h2>
                             </div>
                             <div className="faq-img-box">
                                 <img src="/images/faq-img.jpg" alt="" />
@@ -62,8 +62,8 @@ class FaqArea extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">How do I make a pledge?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Fill out the pledge form on our website to support the operating expense needs – www.battleforspartanswimanddive.com
-Contact Vivian Leung in University Advancement directly to discuss higher dollar value contributions and naming rights opportunities on the new Aquatic facility – leungv@msu.edu</p>
+                                        <p className="accordion__content-desc">Fill out the <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf" target='_blank'>pledge form</Link> to support the operating expense needs.
+Contact Vivian Leung <Link href="mailto:leungv@msu.edu">(leungv@msu.edu)</Link> in University Advancement directly to discuss higher dollar value contributions and naming rights opportunities on the new Aquatic facility</p>
                                     </div>
                                 </div>
                                 <div className="ac">

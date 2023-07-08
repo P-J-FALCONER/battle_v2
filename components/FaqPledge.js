@@ -16,12 +16,12 @@ class FaqPledge extends Component {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="section-heading">
-                                <h2 className="section__title">Pledge Questions</h2>
+                                <h2 className="section__title">Pledge FAQ</h2>
                                 <div className='pledge-form'>
                                 <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/EXAMPLE+PLEDGE.pdf" target='_blank' className="theme-btn">Example Pledge Form</Link>
                                 </div>
                                 <div className='pledge-form'>
-                                <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf" target='_blank' className="theme-btn">Pledge Form for Download</Link>
+                                <Link href="https://battle-for-msu-swim-dive.s3.amazonaws.com/Conditional+pledge+form+-+Swim+and+Dive.pdf" target='_blank' className="theme-btn">OFFICIAL MSU PLEDGE FORM</Link>
                                 </div>
                             </div>
                         </div>

@@ -6,6 +6,10 @@ const AboutArea = () => {
         <section className="about-area">
             <div className="container">
                 <div className="row">
+                <h2 className="involve_title">Reach out to our team to share your ideas or collaborate on more creative outreach options.
+fightforspartanswimdive@gmail.com</h2>
+
+
                     <div className="col-lg-12">
                         <div className="about-large-img">
                             <img src="/images/about-img.png" alt="" />
@@ -19,16 +23,14 @@ const AboutArea = () => {
                     <div className="col-lg-7">
                         <div className="about-heading">
                             <div className="section-heading">
-                                <h2 className="section__title">Got Some Spare Time?</h2>
-                                <h2>Reach out to AD Haller and voice your support!</h2>
-
-                                <h4>Write personalized letters about why this fight matters to you. AD Haller is the primary target
-                                Top Priority Contacts, Email as Many as You Can:</h4>
+                                <h2 className='involve_header'>Email AD Alan Haller to express your excitement about the recent announcement and indicate our willingness to partner to ensure reinstating these teams is a success.</h2>
                                 <div className='pledge-form'>
                                     <Link href="mailto:ad@ath.msu.edu" target='_blank' className="theme-btn">
                                     Athletic Director, Allan Haller: ad@ath.msu.edu
                                     </Link>
                                 </div>
+                                <h2 className='involve_header'>Email the president and board to express your excitement that they are working with our group in good faith and highlight the fact that there are multiple different avenues to success that we can continue to explore together.</h2>
+
                                 <div className='pledge-form'>
                                     <Link href="mailto:president@msu.edu" target='_blank' className="theme-btn">
                                     Interim President, Dr. Teresa Woodruff: president@msu.edu
@@ -77,23 +79,6 @@ const AboutArea = () => {
                                 <div className='pledge-form'>
                                     <Link href="tel:517-353-4647" target='_blank' className="theme-btn">
                                     Board of Trustees Office: (517) 353-4647
-                                    </Link>
-                                </div>
-
-                                        <h4>Other members of the Athletic Department:</h4>
-                                        <div className='pledge-form'>
-                                    <Link href="mailto:smith170@ath.msu.edu" target='_blank' className="theme-btn">
-                                    Deputy AD/Sr. Woman’s Admin/Compliance: smith170@ath.msu.edu
-                                    </Link>
-                                </div>
-                                <div className='pledge-form'>
-                                    <Link href="mailto:schager@ath.msu.edu" target='_blank' className="theme-btn">
-                                    Exec Assoc AD Ops, Paul Schager: schager@ath.msu.edu
-                                    </Link>
-                                </div>
-                                <div className='pledge-form'>
-                                    <Link href="mailto:danie128@ath.msu.edu" target='_blank' className="theme-btn">
-                                    ssoc AD/Student-Athlete Engagement, Elliot Daniels: danie128@ath.msu.edu
                                     </Link>
                                 </div>
                             </div>

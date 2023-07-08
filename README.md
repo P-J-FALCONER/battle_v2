@@ -9,5 +9,6 @@ npm run dev
 # or
 yarn dev
 ```
+testimonial videos
 
-accolades
+Can we add the link to the board of trustees meeting with the announcement and the quote from Rema I pulled out below in this document?

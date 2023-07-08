@@ -126,6 +126,14 @@ a:hover {
 .accolades_list {
     list-style: square;
 }
+.involve_header{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.involve_title{
+    padding-top: 30px;
+    text-align: center;
+}
 /*=============================
     general-style
  =============================*/
