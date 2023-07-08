@@ -10,5 +10,4 @@ npm run dev
 yarn dev
 ```
 
-testimonals
 accolades
