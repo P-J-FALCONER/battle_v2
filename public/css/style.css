@@ -123,6 +123,9 @@ a:hover {
     text-align: center;
 
 }
+.accolades_list {
+    list-style: square;
+}
 /*=============================
     general-style
  =============================*/
