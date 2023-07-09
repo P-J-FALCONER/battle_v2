@@ -16,7 +16,7 @@ class FaqPledge extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
-                        <h3 className="involve_title">After almost 2.5 years od work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect offical pledges towards the reinstatement of both Men's and Womens's Swimming and Diving teams. These Pledges must be completed on the offical MSU forms linked here, and turned in to University Advancement in order to be applied to our fundraising targets. Deadline is Oct. 1, 2023, so please make your contributions offical TODAY!</h3>
+                        <h3 className="involve_title">After almost 2.5 years od work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect official pledges towards the reinstatement of both Men's and Womens's Swimming and Diving teams. These Pledges must be completed on the official MSU forms linked here, and turned in to University Advancement in order to be applied to our fundraising targets. Deadline is Oct. 1, 2023, so please make your contributions official TODAY!</h3>
                             <div className="section-heading">
                                 <h2 className="section__title">Pledge FAQ</h2>
                                 <div className='pledge-form'>
@@ -96,7 +96,7 @@ class FaqPledge extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Who can I contact with more questions?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">University Advancement Execuitive Director Vivian Leung (leungv@msu.edu) or B4SSD (fightforspartanswimsive@gmail.com).</p>
+                                        <p className="accordion__content-desc">University Advancement Executive Director Vivian Leung (leungv@msu.edu) or B4SSD (fightforspartanswimsive@gmail.com).</p>
                                     </div>
                                 </div>
 

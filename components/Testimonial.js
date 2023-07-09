@@ -485,9 +485,9 @@ const Testimonial = () => {
                                         <p className="sponsor__text">
                                         It has made me become the person that I am.
 
-As a skinny Belgian swimmer MSU and its coaches developed me into an 2x All-American and Olympian at the 1988 Games. Through that experience I have coached 2 Olympians, and have been to all the Olympic games since (Tokio should have been the 9th!!) as a colourcommentator for the Belgian TV, always sitting behind Rowdy Gaines. Besides that, witj the education MSU gave me I managed a successful family owned auctionhouse since 1992.
+As a skinny Belgian swimmer MSU and its coaches developed me into an 2x All-American and Olympian at the 1988 Games. Through that experience I have coached 2 Olympians, and have been to all the Olympic games since (Tokio should have been the 9th!!) as a colour commentator for the Belgian TV, always sitting behind Rowdy Gaines. Besides that, with the education MSU gave me I managed a successful family owned auctionhouse since 1992.
 
-Not even mentioning the lasting friendships with former swimmers and coaches, the swimmingprogram gave a lot.
+Not even mentioning the lasting friendships with former swimmers and coaches, the swimming program gave a lot.
 
 I came in with a 1/4 scholarship and refused a full one my junior year so that the program could become a better one. I must have been the cheapest All-American on campus!
 
@@ -497,7 +497,7 @@ Go Green Go white.
                                         </p>
                                         <h4>Why did you choose MSU?</h4>
                                         <p className="sponsor__text">
-                                        The Swiming Program.
+                                        The Swimming Program.
                                         </p>
                                         <h4>Biggest life-lesson you are learning/learned from MSU?</h4>
                                         <p className="sponsor__text">
@@ -659,7 +659,7 @@ Now, I’m back in my home state coaching for the community that I was a part of
                                         <span className="sponsor__meta">Class of 1977</span>
                                         <h4>What does the program mean to you?</h4>
                                         <p className="sponsor__text">
-                                        It help me become the person I am tiday
+                                        It help me become the person I am today
                                         </p>
                                         <h4>Why did you choose MSU?</h4>
                                         <p className="sponsor__text">
@@ -958,7 +958,7 @@ Now, I’m back in my home state coaching for the community that I was a part of
                                         <span className="sponsor__meta">Class of 2010</span>
                                         <h4>What does the program mean to you?</h4>
                                         <p className="sponsor__text">
-                                        This program means more to me than any other aspect if my experience at MSU bar none. The skills and relationships I developed while a part of this program were instrumental in getting me to where I am today. Balancing the rigor of Chemical Engineering with a mentally demanding sport such as diving was difficult to be sure, but with the encouragement of my teammates and the coaching staff I learned I was capable of far more than I ever imagined. The friendships I developed and mentorship of my coaches and teammates are invaluable resourcs that I continue to draw upon to this day.
+                                        This program means more to me than any other aspect if my experience at MSU bar none. The skills and relationships I developed while a part of this program were instrumental in getting me to where I am today. Balancing the rigor of Chemical Engineering with a mentally demanding sport such as diving was difficult to be sure, but with the encouragement of my teammates and the coaching staff I learned I was capable of far more than I ever imagined. The friendships I developed and mentorship of my coaches and teammates are invaluable resources that I continue to draw upon to this day.
                                         </p>
                                         <h4>Why did you choose MSU?</h4>
                                         <p className="sponsor__text">
@@ -1311,11 +1311,11 @@ The phrase Spartans will really resonates with me. It speaks to the determinatio
                                         <span className="sponsor__meta">Class of 1982</span>
                                         <h4>What does the program mean to you?</h4>
                                         <p className="sponsor__text">
-                                        The operating norms I learned/developed while swimming for MSU became foundational cornerstones of the successes I achieved in my personal and professional life. Discipline, hard work, sense of team and communtity that allowed me to retire at age 57 and give generously to the University and MSU athletics over the years.
+                                        The operating norms I learned/developed while swimming for MSU became foundational cornerstones of the successes I achieved in my personal and professional life. Discipline, hard work, sense of team and community that allowed me to retire at age 57 and give generously to the University and MSU athletics over the years.
                                         </p>
                                         <h4>Why did you choose MSU?</h4>
                                         <p className="sponsor__text">
-                                        Fell in love with the University the first time I stepped on campus for the Michigan State Swim Cphampionships in high school.
+                                        Fell in love with the University the first time I stepped on campus for the Michigan State Swim Championships in high school.
                                         </p>
                                         <h4>Biggest life-lesson you are learning/learned from MSU?</h4>
                                         <p className="sponsor__text">
