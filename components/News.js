@@ -7,6 +7,18 @@ const News = () => {
             <div className="container">
                 <div className="row recent-post-wrap">
 
+                <div className="col-lg-6 col-sm-6">
+                        <div className="recent-item">
+                            <div className="news__content">
+                                <h3 className="news__content-title">MSU Board of Trustee chair Dr. Rema Vassar makes a path for a potential swim and dive team</h3>
+                                <p className="news__content-text">
+                                At the OCT 28th 2022 Board of Trustees Meeting the board requested the administration to develop a plan forward for a potential swim and dive team. During the past several months, administrators worked with supporters of the swim and dive program to evaluate possible scenarios. With today’s approval of a recreational pool as part of the new student recreation and wellness center a window of opportunity exists for supporters of the program who have been, I mean, pretty persistent to raise support to fund the additional infrastructure needed for a competitive intercollegiate athletic swim and dive facility. They have been given a target and a timeline and have agreed upon that. The board, administration, and supporters of the swim and dive program are aligned to restart a swim and dive MSU program.
+                                    </p>
+                                <Link href="https://trustees.msu.edu/meetings/documents/2023/MSU-BOT-2023-06-16.mp3"target='_blank' className="theme-btn">Listen to meeting (starts at 1:03:50 ) </Link>
+                            </div>
+                        </div>
+                    </div>
+
                     <div className="col-lg-6 col-sm-6">
                         <div className="recent-item">
                             <div className="news__content">
