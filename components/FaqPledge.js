@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Link from 'next/link';
 
+
 class FaqPledge extends Component {
 
     componentDidMount() {
@@ -15,6 +16,7 @@ class FaqPledge extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
+                        <h3 className="involve_title">After almost 2.5 years od work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect offical pledges towards the reinstatement of both Men's and Womens's Swimming and Diving teams. These Pledges must be completed on the offical MSU forms linked here, and turned in to University Advancement in order to be applied to our fundraising targets. Deadline is Oct. 1, 2023, so please make your contributions offical TODAY!</h3>
                             <div className="section-heading">
                                 <h2 className="section__title">Pledge FAQ</h2>
                                 <div className='pledge-form'>
@@ -51,16 +53,19 @@ class FaqPledge extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Do I need to print and sign?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Yes, scanned copies can be emailed to Vivian Leung (leungv@msu.edu). Photos can be emailed short term, but she needs a scanned or mailed copy eventually.</p>
+                                        <p className="accordion__content-desc">Yes, scanned copies can be emailed to Vivian Leung <Link href="mailto:leungv@msu.edu">(leungv@msu.edu)</Link>. Photos can be emailed short term, but she needs a scanned or mailed copy eventually.</p>
                                     </div>
                                 </div>
 
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Can I mail the form instead of scanning and emailing?</h2>
                                     <div className="ac-a">
+
                                         <p className="accordion__content-desc">Yes, please send them to vivian at the address below. It's important it reaches her specifically so it can be tallied for our effort and not processed prior to reinstatement.</p>
-                                        <p>Attn: Vivian Leung ~{"\n"}
-                                        Spartan Way - Univ Devel</p>
+                                        <p className='donation_address'>Attn: Vivian Leung</p>
+                                        <p className='donation_address'>Spartan Way - Univ Devel</p>
+                                        <p className='donation_address'>535 Chestnut Road, Room 300</p>
+                                        <p className='donation_address'>East Lansing, MI 48824</p>
                                     </div>
                                 </div>
 
