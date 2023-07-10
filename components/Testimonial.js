@@ -1,5 +1,8 @@
 import React from 'react';
 
+
+// https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_1.mp4
+// https://battle-for-msu-swim-dive.s3.amazonaws.com/msu_video_2.mp4
 const Testimonial = () => {
     return (
         <section className="sponsor-area">
