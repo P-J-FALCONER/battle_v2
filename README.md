@@ -17,5 +17,3 @@ add more press relaeases from google drive
 
 
 mobile home cutting off pledge link
-
-get involved mobile first blurb about email cut off

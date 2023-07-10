@@ -6,9 +6,9 @@ const AboutArea = () => {
         <section className="about-area">
             <div className="container">
                 <div className="row">
-                <h2 className="involve_title">Reach out to our team to share your ideas or collaborate on more creative outreach options.
-fightforspartanswimdive@gmail.com</h2>
-
+                    <div className="col-lg-12">
+                <h5 className="involve_title">Reach out to our team to share your ideas or collaborate on more creative outreach options. fightforspartanswimdive@gmail.com</h5>
+                    </div>
 
                     <div className="col-lg-12">
                         <div className="about-large-img">
