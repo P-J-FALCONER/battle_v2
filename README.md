@@ -9,6 +9,13 @@ npm run dev
 # or
 yarn dev
 ```
-testimonial videos
 
-Can we add the link to the board of trustees meeting with the announcement and the quote from Rema I pulled out below in this document?
+
+testimonial videos
+add more press relaeases from google drive
+
+
+
+mobile home cutting off pledge link
+
+get involved mobile first blurb about email cut off

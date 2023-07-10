@@ -125,6 +125,7 @@ a:hover {
 }
 .accolades_list {
     list-style: square;
+    padding-left: 20px;
 }
 .involve_header{
     padding-bottom: 30px;
@@ -3779,6 +3780,7 @@ a:hover {
 .sponsor-area .sponsor-wrap .sponsor-item .sponsor__text {
     line-height: 30px;
     margin-top: 34px;
+    padding-bottom: 20px;
 }
 
 /*===================================
