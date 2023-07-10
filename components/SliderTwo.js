@@ -14,7 +14,7 @@ const SliderTwo = () => {
                                                 <h2 className="slider__title">The window of opportunity is now!</h2>
                                                 <h3 className='mission_statement'>
                                                     The Battle for Spartan Swim and Dive is pleased to announce that we are now working with Michigan State University
-                                                    leadership on the return of the varsity Swimming and Diving programs! Our persistent and professional advocacy has positioned us to
+                                                    leadership on the return of the varsity Swimming and Diving programs! Our persistent and professional advocacy has enabled us to
                                                     collaborate with MSU on fundraising toward operating expenses and a new aquatic facility, and ultimately position the program for a successful and sustainable future. Read below to learn more.</h3>
                                                 <a target='_blank' href="/pledge" className="theme-btn">Pledge Now</a>
                                             </div>

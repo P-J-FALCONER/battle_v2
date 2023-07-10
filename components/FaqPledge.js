@@ -16,7 +16,7 @@ class FaqPledge extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
-                        <h3 className="involve_title">After almost 2.5 years od work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect official pledges towards the reinstatement of both Men's and Womens's Swimming and Diving teams. These Pledges must be completed on the official MSU forms linked here, and turned in to University Advancement in order to be applied to our fundraising targets. Deadline is Oct. 1, 2023, so please make your contributions official TODAY!</h3>
+                        <h3 className="involve_title">After almost 2.5 years of work, MSU's University Advancement Office, which oversees donations to Michigan State, has been directed by the President to collect official pledges towards the reinstatement of both Men's and Womens's Swimming and Diving teams. These Pledges must be completed on the official MSU forms linked here, and turned in to University Advancement in order to be applied to our fundraising targets. Deadline is Oct. 1, 2023, so please make your contributions official TODAY!</h3>
                             <div className="section-heading">
                                 <h2 className="section__title">Pledge FAQ</h2>
                                 <div className='pledge-form'>
