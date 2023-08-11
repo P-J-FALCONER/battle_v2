@@ -73,7 +73,7 @@ class FaqPledge extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">HELP! I don't have a printer, can you mail me a form?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">Yes, please email us at fightforspartanswimsive@gmail.com to request a mailed copy.</p>
+                                        <p className="accordion__content-desc">Yes, please email us at fightforspartanswimdive@gmail.com to request a mailed copy.</p>
                                     </div>
                                 </div>
 
@@ -96,7 +96,7 @@ class FaqPledge extends Component {
                                 <div className="ac">
                                     <h2 className="ac-q" tabIndex="0">Who can I contact with more questions?</h2>
                                     <div className="ac-a">
-                                        <p className="accordion__content-desc">University Advancement Executive Director Vivian Leung (leungv@msu.edu) or B4SSD (fightforspartanswimsive@gmail.com).</p>
+                                        <p className="accordion__content-desc">University Advancement Executive Director Vivian Leung (leungv@msu.edu) or B4SSD (fightforspartanswimdive@gmail.com).</p>
                                     </div>
                                 </div>
 

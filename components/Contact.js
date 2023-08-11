@@ -9,7 +9,7 @@ const Contact = () => {
                     <div className="col-lg-6">
                         <div className="section-heading">
                             <h2 className="section__title">Get in Touch With Us</h2>
-                            <Link href="mailto:fightforspartanswimdive@gmail.com" className="theme-btn">Email fightforspartanswimsdive@gmail.com</Link>
+                            <Link href="mailto:fightforspartanswimdive@gmail.com" className="theme-btn">Email fightforspartanswimdive@gmail.com</Link>
                         </div>
                     </div>
                 </div>
